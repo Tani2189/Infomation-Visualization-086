@@ -13,10 +13,14 @@
 
 # Matplotlib: 
 >For data visualization we use python(Matplotlib) and the dataset which I used was my attendance.
+> ![chart01](https://github.com/Tani2189/Infomation-Visualization-086/assets/96855667/463618e4-ef26-4449-ad9c-9e26438684ae)
+>![chart02](https://github.com/Tani2189/Infomation-Visualization-086/assets/96855667/3168d0bb-0a70-4728-b212-52b06e5f0fb6)
+>![chart03](https://github.com/Tani2189/Infomation-Visualization-086/assets/96855667/0acc4c0f-2cf5-41c8-bfeb-68b3a6f47268)
 
 # Tableau:
 >In tableau section I used the same datasets and made few graphs regarding my data.
->Here's the sample overview of my data: ![Dashboard 1](https://github.com/Tani2189/Infomation-Visualization-086/assets/96855667/3c9fc868-0817-47f1-8a41-e320e78283ea)
+>Here's the sample overview of my data: ![Dashboard 1](https://github.com/Tani2189/Infomation-Visualization-086/assets/96855667/78f77b4f-c32a-462e-9820-3af2e243fdeb)
+
 >Here's the tableau link: https://public.tableau.com/shared/Q84N57XD2?:display_count=n&:origin=viz_share_link
 
 # ResearchPaper:
